@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XXMvpDemo</string>
+    <string name="text_error_default">网络不好，请重试</string>
+</resources>
